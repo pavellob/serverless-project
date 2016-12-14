@@ -1,1 +1,1 @@
-# tea-project
+# serverless-project
